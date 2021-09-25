@@ -1,7 +1,7 @@
 # README
 
 ### Final Project Presentation
-    ![alt text](https://user-images.githubusercontent.com/70488221/134759165-07fb3727-3353-40ed-b26a-b63749915dc7.mp4)
+[](https://user-images.githubusercontent.com/70488221/134759165-07fb3727-3353-40ed-b26a-b63749915dc7.mp4)
 
 ### Data
     Default data is given in the Data/Dragon_Force directory.
