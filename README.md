@@ -1,7 +1,7 @@
 # README
 
 ### Final Project Presentation
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/XyKpvFvkE7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    ![alt text](https://user-images.githubusercontent.com/70488221/134759165-07fb3727-3353-40ed-b26a-b63749915dc7.mp4)
 
 ### Data
     Default data is given in the Data/Dragon_Force directory.
